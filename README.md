@@ -10,7 +10,7 @@ python~=3.7
 ## 准备
 1.MongoDB安装
 
-2.Chrome浏览器驱动
+2.[Chrome浏览器驱动安装](http://npm.taobao.org/mirrors/chromedriver/)
 
 ## 过滑块
 通过先加速后减速的轨迹通过滑块
