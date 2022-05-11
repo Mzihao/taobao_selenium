@@ -9,6 +9,7 @@ python~=3.7
 
 ## 准备
 1.MongoDB安装
+
 2.Chrome浏览器驱动
 
 ## 过滑块
